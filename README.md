@@ -1,12 +1,13 @@
 <h1 align="center">Ola 👋, Eu sou Alessandro Araujo</h1>
 <h3 align="center">Desenvolvedor Back-End e Pentester</h3>
-<h2 align="center">E-mail: alessandro.v.b.araujo@gmail.com</h2>
+
 - 💀 Tudo sobre Scripts e Pentest [SecurityProtect](https://www.instagram.com/secprotect/)
 
 - 📜 Script FrameWork Shell-Code **FrameWork RootKit**
-
+- 📧 E-mail: **alessandro.v.b.araujo@gmail.com** 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
+  
 <a href="https://twitter.com/ale_v_b_araujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ale_v_b_araujo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alessandro (xrlm8) araujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessandro (xrlm8) araujo" height="30" width="40" /></a>
 <a href="https://fb.com/alessandro.v.b.araujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alessandro.v.b.araujo" height="30" width="40" /></a>
