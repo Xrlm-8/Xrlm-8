@@ -39,7 +39,9 @@
 <a href="https://developer.android.com/index.html" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/android-sdk/images/android-sdk-logo.svg" alt="android-sdk" width="40" height="40"/> </a> 
 <a href="https://github.com/rbsec/sslscan" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/sslscan/images/sslscan-logo.svg" alt="sslscan" width="40" height="40"/> </a> 
 <a href="https://github.com/secretsquirrel/the-backdoor-factory" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/backdoor-factory/images/backdoor-factory-logo.svg" alt="backdoor-factory" width="40" height="40"/> </a> 
-<a href="https://www.exploit-db.com/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/exploitdb/images/exploitdb-logo.svg" alt="exploitdb" width="40" height="40"/> </a> 
+<a href="https://www.exploit-db.com/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/exploitdb/images/exploitdb-logo.svg" alt="exploitdb" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/crunch/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/crunch/images/crunch-logo.svg" alt="crunch" width="40" height="40"/> </a>
+  
 <a href="https://openvpn.net/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/images/kali-tools-icon-missing.svg" alt="openvpn" width="40" height="40"/> </a> 
 <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/images/kali-tools-icon-missing.svg" alt="apache2" width="40" height="40"/> </a> 
 </p>
