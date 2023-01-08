@@ -25,7 +25,7 @@
 <a href="https://www.kali.org/tools/john/#john-data" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="John" width="40" height="40"/> </a> 
 <a href="https://xsser.03c8.net/" target="_blank" rel="noreferrer"> <img src="https://xsser.03c8.net/xsser/xsser.png" alt="xsser" width="40" height="40"/> </a> 
 <a href="https://www.kali.org/tools/hydra" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="40" height="40"/> </a> 
-<a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit-framework" width="40" height="40"/> </a> 
+<a href="https://www.kali.org/tools/metasploit-framework/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit-framework" width="40" height="40"/> </a> 
 <a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="hashcat" width="40" height="40"/> </a> 
 <a href="https://github.com/ffuf/ffuf" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" alt="ffuf" width="40" height="40"/> </a> 
 <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="40" height="40"/> </a> 
