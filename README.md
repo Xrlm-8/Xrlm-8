@@ -41,6 +41,7 @@
 <a href="https://github.com/secretsquirrel/the-backdoor-factory" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/backdoor-factory/images/backdoor-factory-logo.svg" alt="backdoor-factory" width="40" height="40"/> </a> 
 <a href="https://www.exploit-db.com/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/exploitdb/images/exploitdb-logo.svg" alt="exploitdb" width="40" height="40"/> </a>
 <a href="https://www.kali.org/tools/crunch/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/crunch/images/crunch-logo.svg" alt="crunch" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/veil/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/veil/images/veil-logo.svg" alt="veil" width="40" height="40"/> </a>
 <a href="https://openvpn.net/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/images/kali-tools-icon-missing.svg" alt="openvpn" width="40" height="40"/> </a> 
 <a href="https://httpd.apache.org/" target="_blank"  rel="noreferrer"> <img src="https://www.kali.org/images/kali-tools-icon-missing.svg" target="_blank" alt="apache2" width="40" height="40"/> </a> 
 </p>
