@@ -42,6 +42,34 @@
 <a href="https://www.exploit-db.com/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/exploitdb/images/exploitdb-logo.svg" alt="exploitdb" width="40" height="40"/> </a>
 <a href="https://www.kali.org/tools/crunch/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/crunch/images/crunch-logo.svg" alt="crunch" width="40" height="40"/> </a>
 <a href="https://www.kali.org/tools/veil/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/veil/images/veil-logo.svg" alt="veil" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/wireshark/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="wireshark" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/cewl/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/cewl/images/cewl-logo.svg" alt="cewl" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/aircrack-ng/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="aircrack-ng" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/wpscan/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" alt="wpscan" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/dirbuster/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/dirbuster/images/dirbuster-logo.svg" alt="dirbuster" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/dirb/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/dirb/images/dirb-logo.svg" alt="dirb" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/chntpw/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/chntpw/images/chntpw-logo.svg" alt="chntpw" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/wifite/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" alt="wifite" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/dnsrecon/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/dnsrecon/images/dnsrecon-logo.svg" alt="dnsrecon" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/responder/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/responder/images/responder-logo.svg" alt="responder" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/ettercap/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/ettercap/images/ettercap-logo.svg" alt="ettercap" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/beef-xss/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg" alt="beef-xss" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/hping3/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/hping3/images/hping3-logo.svg" alt="hping3" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/armitage/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/armitage/images/armitage-logo.svg" alt="armitage" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/theharvester/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/theharvester/images/theharvester-logo.svg" alt="theharvester" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/recon-ng/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/recon-ng/images/recon-ng-logo.svg" alt="recon-ng" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/bettercap/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" alt="bettercap" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/mimikatz/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/mimikatz/images/mimikatz-logo.svg" alt="mimikatz" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/reaver/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/reaver/images/reaver-logo.svg" alt="reaver" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/lynis/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/lynis/images/lynis-logo.svg" alt="lynis" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/wfuzz/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" alt="wfuzz" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/skipfish/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/skipfish/images/skipfish-logo.svg" alt="skipfish" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/mdk3/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/mdk3/images/mdk3-logo.svg" alt="mdk3" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/kismet/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/kismet/images/kismet-logo.svg" alt="kismet" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/netdiscover/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/netdiscover/images/netdiscover-logo.svg" alt="netdiscover" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/spiderfoot/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/spiderfoot/images/spiderfoot-logo.svg" alt="spiderfoot" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/ghidra/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" alt="ghidra" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/foremost/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/foremost/images/foremost-logo.svg" alt="foremost" width="40" height="40"/> </a>
 <a href="https://openvpn.net/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/images/kali-tools-icon-missing.svg" alt="openvpn" width="40" height="40"/> </a> 
 <a href="https://httpd.apache.org/" target="_blank"  rel="noreferrer"> <img src="https://www.kali.org/images/kali-tools-icon-missing.svg" target="_blank" alt="apache2" width="40" height="40"/> </a> 
 </p>
