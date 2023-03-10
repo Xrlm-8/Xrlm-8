@@ -3,7 +3,7 @@
 
 - 💀 Tudo sobre Scripts e Pentest [SecurityProtect](https://www.instagram.com/secprotect/)
 
-- 📜 Script FrameWork Shell-Code **Framework RootKit**
+- 📜 Script Framework Shell-Code **Framework rootkit**
 - 📧 E-mail: **alessandro.v.b.araujo@gmail.com** 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
